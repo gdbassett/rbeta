@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rbeta", # Replace with your own username
-    version="0.0.7",
+    version="0.0.8",
     author="Gabriel Bassett, Mayisha Zeb Nakib",
     author_email="gabe@infosecanalytics.com, mayishazn@gmail.com",
     description="Calculate the rBeta correlation between fMRI voxels. Based on https://github.com/remolek/NFC.",
