@@ -7,7 +7,7 @@ setuptools.setup(
     name="rbeta", # Replace with your own username
     version="0.0.7",
     author="Gabriel Bassett, Mayisha Zeb Nakib",
-    author_email="gabe@infosecanalytics.com",
+    author_email="gabe@infosecanalytics.com, mayishazn@gmail.com",
     description="Calculate the rBeta correlation between fMRI voxels. Based on https://github.com/remolek/NFC.",
     long_description=long_description,
     long_description_content_type="text/markdown",
